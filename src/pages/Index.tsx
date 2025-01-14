@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { ChatInput } from "@/components/ChatInput";
 import { ChatMessage } from "@/components/ChatMessage";
-import { ModelSelector } from "@/components/ModelSelector";
+import { ModelSelector } from "@/components/ModelSelector/ModelSelector";
 import { TaskList, Task } from "@/components/TaskList";
 import { Button } from "@/components/ui/button";
 import { Separator } from "@/components/ui/separator";
